@@ -9,5 +9,3 @@ def even_odd(num):
     except TypeError:
         return 'Введено неверное значение'
 
-
-#even_odd('f')
