@@ -1,3 +1,7 @@
+# Добавьте класс UserRepository для управления пользователями. В этот класс должен быть включен метод
+# addUser, который добавляет пользователя в систему, если он прошел аутентификацию. Покройте тестами новую
+# функциональность
+
 import unittest
 from user import User
 from user_repository import UserRepository

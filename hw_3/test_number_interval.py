@@ -1,3 +1,8 @@
+# Задание 2.
+
+# Разработайте и протестируйте метод numberInInterval,
+# который проверяет, попадает ли переданное число в интервал (25;100).
+
 import unittest
 from number_interval import numver_interval
 
