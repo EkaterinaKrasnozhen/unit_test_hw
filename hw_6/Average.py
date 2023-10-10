@@ -3,4 +3,3 @@ class Average:
         if len(lst):
             return sum(lst) / len(lst)
         return 0.0
-        
